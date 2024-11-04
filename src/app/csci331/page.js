@@ -2,7 +2,7 @@ import Counter from '@/app/components/Counter'
 import Paragraph from '@/app/components/Paragraph'
 import Search from '@/app/components/Search'
 
-export default function MyCounter() {
+export default function MyPage() {
     return (
         <main>
             <h1 style={{
